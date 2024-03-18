@@ -1,0 +1,38 @@
+.nav-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 100%;
+}
+
+.mainlogo {
+  width: 195px;
+  height: 50px;
+}
+
+.profile {
+  height: 48px;
+  width: 45px;
+}
+
+.nxt{
+  justify-content: start;
+  align-items: left;
+}
+
+.header-Right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 295px;
+}
+
+.logout {
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  border: none;
+  background-color: rgb(156, 106, 202);
+  color: aliceblue;
+}
